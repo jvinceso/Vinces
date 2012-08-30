@@ -95,6 +95,8 @@ if ($nroopc != NULL && $nroopc > 0) {
 </tbody>
 </table>	
 <?php
-echo "data json<br>";
+echo "<center><h2>Información del Arreglo JSON</h2></center><br>";
+echo"<center>";
 print_r($arr);
+echo"</center>";
 ?>
