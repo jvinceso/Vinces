@@ -89,8 +89,6 @@ if ($nroopc != NULL && $nroopc > 0) {
 			?>
 		</tr>
 		<?php
-/*		$NroRegistros = $fila['row_count'];
-		unset($fila);*/
 	}
 	?>
 
