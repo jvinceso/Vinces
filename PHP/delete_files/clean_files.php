@@ -24,5 +24,5 @@ function rchmod($parent, $dmod, $fmod) {
 		umask($old);
 	}
 }
-rchmod('cosolucv/', 0777, 0666);
+rchmod('foldername/', 0777, 0666);
 ?>
